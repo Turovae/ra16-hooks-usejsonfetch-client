@@ -1,4 +1,4 @@
-![example workflow](https://github.com/Turovae/ra16-hooks-usejsonfetch-client/actions/workflows/jekyll-gh-pages.yml/badge.svg)
+[![Deploy static content to Pages](https://github.com/Turovae/ra16-hooks-usejsonfetch-client/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/Turovae/ra16-hooks-usejsonfetch-client/actions/workflows/jekyll-gh-pages.yml)
 
 ---
 
