@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://turovae.github.io/ra16-hooks-usejsonfetch-client/",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
