@@ -1,3 +1,7 @@
+![example workflow](https://github.com/Turovae/ra16-hooks-usejsonfetch-client/actions/workflows/jekyll-gh-pages.yml/badge.svg)
+
+---
+
 useJsonFetch
 ===
 
